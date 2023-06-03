@@ -1,0 +1,32 @@
+.NotFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.NotFound12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: black;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.notie {
+  width: 40%;
+}
+
+.colonel {
+  width: 50%;
+
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
